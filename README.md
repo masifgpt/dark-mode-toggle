@@ -43,7 +43,7 @@ dark-mode-toggle/
 
 ## Live Demo
 
-🔗 [View Live Demo](https://your-live-demo-link.vercel.app)
+🔗 [View Live Demo](https://dark-mode-toggle-pink.vercel.app/)
 
 ---
 
